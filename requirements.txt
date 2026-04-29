@@ -1,7 +1,4 @@
 Flask
 gunicorn
 pandas
-render_template
 requests
-random
-request
